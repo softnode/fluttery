@@ -1,3 +1,6 @@
+## [0.0.8] - Sep 11, 2018.
+* Changed versions to match Dart SDK 2.1 requirements.
+
 ## [0.0.7] - May 31, 2018.
 
 * Changed AnchoredOverlay to report its anchor's bounds in addition to the anchor's center.
